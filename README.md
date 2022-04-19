@@ -30,3 +30,4 @@
   [![VK](https://img.shields.io/badge/-VK-131313?style=for-the-badge&logo=VK)](https://vk.com/id333667069)
   [![Facebook](https://img.shields.io/badge/-Facebook-131313?style=for-the-badge&logo=Facebook)](https://www.facebook.com/profile.php?id=100023988285502)
 
+  [![White-prince GitHub stats](https://github-readme-stats.vercel.app/api?username=White-prince&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
