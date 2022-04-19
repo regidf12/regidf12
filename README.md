@@ -1,6 +1,6 @@
-    ![White-prince](https://github.com/White-prince/White-prince/blob/main/assets/logogitorgb0.png?raw=true)
+    [![White-prince](https://github.com/White-prince/White-prince/blob/main/assets/logogitorgb0.png?raw=true)](https://white-prince.github.io/Homepage/)
 
-    About me
+    ##I'm python developer
 
     Languages and Tools
 
