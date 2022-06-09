@@ -14,12 +14,13 @@
   ![Django](https://img.shields.io/badge/-Django-2E8B57?style=for-the-badge&logo=Django)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-483D8B?style=for-the-badge&logo=Bootstrap)
   ![Aiogram](https://img.shields.io/badge/-aiogram-AFEEEE?style=for-the-badge&logo=Telegram)
+  
+  ![SQLITE 3](https://img.shields.io/badge/-SQLITE3-131313?style=for-the-badge&logo=SQLITE)
 
  - I learn
 
-  ![SQLITE 3](https://img.shields.io/badge/-SQLITE3-131313?style=for-the-badge&logo=SQLITE)
   ![JS](https://img.shields.io/badge/-JS-DAA520?style=for-the-badge&logo=JavaScript)
-  ![JS](https://img.shields.io/badge/-Scipy-DC143C?style=for-the-badge&logo=Scipy)
+  ![Scipy](https://img.shields.io/badge/-Scipy-DC143C?style=for-the-badge&logo=Scipy)
 
  ### Follow me
 
