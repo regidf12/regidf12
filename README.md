@@ -10,9 +10,9 @@
   ![HTML](https://img.shields.io/badge/-HTML-FF7F50?style=for-the-badge&logo=HTML5)&nbsp;
   ![CSS](https://img.shields.io/badge/-CSS-7B68EE?style=for-the-badge&logo=CSS3)&nbsp;
   ![Django](https://img.shields.io/badge/-Django-2E8B57?style=for-the-badge&logo=Django)\
-  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-483D8B?style=for-the-badge&logo=Bootstrap)
-  ![Aiogram](https://img.shields.io/badge/-aiogram-AFEEEE?style=for-the-badge&logo=Telegram)
-  ![SQLITE 3](https://img.shields.io/badge/-SQLITE3-131313?style=for-the-badge&logo=SQLITE)
+  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-483D8B?style=for-the-badge&logo=Bootstrap)&nbsp;
+  ![Aiogram](https://img.shields.io/badge/-aiogram-AFEEEE?style=for-the-badge&logo=Telegram)&nbsp;
+  ![SQLITE 3](https://img.shields.io/badge/-SQLITE3-131313?style=for-the-badge&logo=SQLITE)&nbsp;
   
  - I learn
 
