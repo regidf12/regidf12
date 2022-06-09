@@ -13,20 +13,17 @@
 
  ### :hammer_and_wrench:&nbsp;Languages and Tools
 
- - I know :brain:&nbsp;
-
   ![Python](https://img.shields.io/badge/-Python-AFEEEE?style=for-the-badge&logo=Python)&nbsp;
-  ![HTML](https://img.shields.io/badge/-HTML-FF7F50?style=for-the-badge&logo=HTML5)&nbsp;
-  ![CSS](https://img.shields.io/badge/-CSS-7B68EE?style=for-the-badge&logo=CSS3)&nbsp;
+  ![Html](https://img.shields.io/badge/-HTML-FF7F50?style=for-the-badge&logo=HTML5)&nbsp;
+  ![Css](https://img.shields.io/badge/-CSS-7B68EE?style=for-the-badge&logo=CSS3)&nbsp;
   ![Django](https://img.shields.io/badge/-Django-2E8B57?style=for-the-badge&logo=Django)\
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-483D8B?style=for-the-badge&logo=Bootstrap)&nbsp;
   ![Aiogram](https://img.shields.io/badge/-aiogram-AFEEEE?style=for-the-badge&logo=Telegram)&nbsp;
-  ![SQLITE 3](https://img.shields.io/badge/-SQLITE3-131313?style=for-the-badge&logo=SQLITE)
-  
- - I learn :books:&nbsp;
-
-  ![JS](https://img.shields.io/badge/-JS-DAA520?style=for-the-badge&logo=JavaScript)
-  ![Scipy](https://img.shields.io/badge/-Scipy-DC143C?style=for-the-badge&logo=Scipy)
+  ![MySql](https://img.shields.io/badge/-MySql-F0E68C?style=for-the-badge&logo=MySql)\
+  ![Markdown](https://img.shields.io/badge/-Markdown-C0C0C0?style=for-the-badge&logo=Markdown)&nbsp;
+  ![Git](https://img.shields.io/badge/-Git-DC143C?style=for-the-badge&logo=Git)&nbsp;
+  ![GitHub](https://img.shields.io/badge/-GitHub-131313?style=for-the-badge&logo=GitHub)\
+  ![Pycharm](https://img.shields.io/badge/-Pycharm-3CB371?style=for-the-badge&logo=Pycharm)&nbsp;
 
  ### :link:&nbsp;Follow me
 
