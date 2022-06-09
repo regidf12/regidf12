@@ -1,7 +1,7 @@
  [![White-prince](https://github.com/White-prince/White-prince/blob/main/assets/logogitorgb0.png)](https://white-prince.github.io/Homepage/)
  
  ## I'm a python developer
-
+ <!-- ## 👋 &nbsp;Hey there! I'm White-prince -->
  ### Languages and Tools
 
  - I know
