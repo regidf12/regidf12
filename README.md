@@ -1,6 +1,8 @@
  [![White-prince](https://github.com/White-prince/White-prince/blob/main/assets/logogitorgb0.png)](https://white-prince.github.io/Homepage/)
- 
+  
  ## :wave:&nbsp;Hey there! I'm White-prince a developer
+ 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines="Think+Different")](https://git.io/typing-svg)
  
  ### :file_folder:&nbsp;About Me
  
@@ -35,6 +37,9 @@
   [![Gmail](https://img.shields.io/badge/-Gmail-131313?style=for-the-badge&logo=Gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox)
 
   ### :chart_with_upwards_trend:&nbsp;GitHub Statistics
-  [![White-prince GitHub stats](https://github-readme-stats.vercel.app/api?username=White-prince&theme=tokyonight)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/White-prince))&nbsp;
-  [![White-prince GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=White-prince&langs_count=3&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
   
+  [![White-prince GitHub stats](https://github-readme-stats.vercel.app/api?username=White-prince&theme=tokyonight)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/White-prince))&nbsp;
+  [![White-prince GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=White-prince&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+  
+  ### :fire:&nbsp;GitHub Strick Stats
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=White-prince&theme=tokyonight)](https://git.io/streak-stats)
