@@ -2,7 +2,7 @@
   
  ## :wave:&nbsp;Hey there! I'm White-prince a developer
  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines="Think+Different")](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines="Think+Different")](https://git.io/typing-svg)
 
  ### :file_folder:&nbsp;About Me
  
@@ -14,7 +14,7 @@
  :speech_balloon:&nbsp;You can use social networks to contact me
 
  ### :hammer_and_wrench:&nbsp;Languages and Tools
-
+ 
   ![Python](https://img.shields.io/badge/-Python-AFEEEE?style=for-the-badge&logo=Python)&nbsp;
   ![Html](https://img.shields.io/badge/-HTML-FF7F50?style=for-the-badge&logo=HTML5)&nbsp;
   ![Css](https://img.shields.io/badge/-CSS-7B68EE?style=for-the-badge&logo=CSS3)&nbsp;
@@ -28,17 +28,21 @@
   ![Pycharm](https://img.shields.io/badge/-Pycharm-3CB371?style=for-the-badge&logo=Pycharm)&nbsp;
 
  ### :chart_with_upwards_trend:&nbsp;GitHub Statistics
-  
+ 
   [![White-prince GitHub stats](https://github-readme-stats.vercel.app/api?username=White-prince&theme=tokyonight)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/White-prince))&nbsp;
   
  ### :fire:&nbsp;GitHub Strick Stats
+ 
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=White-prince&theme=tokyonight)](https://git.io/streak-stats)
   
- ### :link:&nbsp;Follow me
-
+### :link:&nbsp;Follow me
+ <div align="center">
+ 
   [![Twitter](https://img.shields.io/badge/-Twitter-131313?style=for-the-badge&logo=Twitter)](https://twitter.com/White_prince_0)
   [![Instagram](https://img.shields.io/badge/-Instagram-131313?style=for-the-badge&logo=Instagram)](https://www.instagram.com/0xe_white_prince_ex0/)
   [![Telegram](https://img.shields.io/badge/-Telegram-131313?style=for-the-badge&logo=Telegram)](https://t.me/Dark_Hub_info)
   [![Google](https://img.shields.io/badge/-Webpage-131313?style=for-the-badge&logo=Google-Chrome&logoColor=white)](https://white-prince.github.io/Homepage/)
   [![Facebook](https://img.shields.io/badge/-Facebook-131313?style=for-the-badge&logo=Facebook)](https://www.facebook.com/profile.php?id=100023988285502)
   [![Gmail](https://img.shields.io/badge/-Gmail-131313?style=for-the-badge&logo=Gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox)
+ 
+ </div>
