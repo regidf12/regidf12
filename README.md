@@ -3,7 +3,7 @@
  ## :wave:&nbsp;Hey there! I'm White-prince a developer
  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines="Think+Different")](https://git.io/typing-svg)
- 
+
  ### :file_folder:&nbsp;About Me
  
  :man_student:&nbsp;I am a student programmer\
@@ -27,6 +27,13 @@
   ![GitHub](https://img.shields.io/badge/-GitHub-131313?style=for-the-badge&logo=GitHub)\
   ![Pycharm](https://img.shields.io/badge/-Pycharm-3CB371?style=for-the-badge&logo=Pycharm)&nbsp;
 
+ ### :chart_with_upwards_trend:&nbsp;GitHub Statistics
+  
+  [![White-prince GitHub stats](https://github-readme-stats.vercel.app/api?username=White-prince&theme=tokyonight)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/White-prince))&nbsp;
+  
+ ### :fire:&nbsp;GitHub Strick Stats
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=White-prince&theme=tokyonight)](https://git.io/streak-stats)
+  
  ### :link:&nbsp;Follow me
 
   [![Twitter](https://img.shields.io/badge/-Twitter-131313?style=for-the-badge&logo=Twitter)](https://twitter.com/White_prince_0)
@@ -35,10 +42,3 @@
   [![Google](https://img.shields.io/badge/-Webpage-131313?style=for-the-badge&logo=Google-Chrome&logoColor=white)](https://white-prince.github.io/Homepage/)
   [![Facebook](https://img.shields.io/badge/-Facebook-131313?style=for-the-badge&logo=Facebook)](https://www.facebook.com/profile.php?id=100023988285502)
   [![Gmail](https://img.shields.io/badge/-Gmail-131313?style=for-the-badge&logo=Gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox)
-
-  ### :chart_with_upwards_trend:&nbsp;GitHub Statistics
-  
-  [![White-prince GitHub stats](https://github-readme-stats.vercel.app/api?username=White-prince&theme=tokyonight)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/White-prince))&nbsp;
-  
-  ### :fire:&nbsp;GitHub Strick Stats
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=White-prince&theme=tokyonight)](https://git.io/streak-stats)
