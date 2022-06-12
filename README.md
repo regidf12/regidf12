@@ -26,6 +26,7 @@
   ![Git](https://img.shields.io/badge/-Git-DC143C?style=for-the-badge&logo=Git)&nbsp;
   ![GitHub](https://img.shields.io/badge/-GitHub-131313?style=for-the-badge&logo=GitHub)\
   ![Pycharm](https://img.shields.io/badge/-Pycharm-3CB371?style=for-the-badge&logo=Pycharm)&nbsp;
+  ![VScode](https://img.shields.io/badge/-VSCode-2A84FE?style=for-the-badge&logo=VisualStudioCode)&nbsp;
 
  ### :chart_with_upwards_trend:&nbsp;GitHub Statistics
  
