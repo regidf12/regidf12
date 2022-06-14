@@ -1,6 +1,6 @@
  [![White-prince](https://github.com/White-prince/White-prince/blob/main/assets/logogitorgb0.png)](https://white-prince.github.io/Homepage/)
   
- ## :wave:&nbsp;Hey there! I'm White-prince a developer
+ ## :wave:&nbsp;Hey there! I'm White-prince :crown:
  
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines="Think+Different")](https://git.io/typing-svg)
 
