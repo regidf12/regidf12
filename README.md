@@ -30,7 +30,7 @@
 
  ### :chart_with_upwards_trend:&nbsp;GitHub Statistics
  
-  [![White-prince GitHub stats](https://github-readme-stats.vercel.app/api?username=White-prince&theme=tokyonight)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/White-prince))&nbsp;
+  ![White-prince GitHub stats](https://github-readme-stats.vercel.app/api?username=White-prince&theme=tokyonight&show_icons=true&theme=radical)&nbsp;
   
  ### :fire:&nbsp;GitHub Strick Stats
  
