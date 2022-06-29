@@ -28,11 +28,11 @@
 
  ### :chart_with_upwards_trend:&nbsp;GitHub Statistics
  
-  ![White-prince GitHub stats](https://github-readme-stats.vercel.app/api?username=White-prince&show_icons=true&theme=tokyonight)&nbsp;
+  ![White-prince GitHub stats](https://github-readme-stats.vercel.app/api?username=White-prince&show_icons=true&theme=github-light)&nbsp;
   
  ### :fire:&nbsp;GitHub Strick Stats
  
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=White-prince&theme=tokyonight)](https://git.io/streak-stats)
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=White-prince&theme=github-light)](https://git.io/streak-stats)
   
 ### :link:&nbsp;Follow me
  <div align="center">
