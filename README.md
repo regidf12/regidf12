@@ -28,7 +28,7 @@
 
  ### :chart_with_upwards_trend:&nbsp;GitHub Statistics
  
-  ![White-prince GitHub stats](https://github-readme-stats.vercel.app/api?username=White-prince&hide_border=true&show_icons=true&bg_color=0D1117&text_color=39d253&title_color=1f6fea)&nbsp;
+  ![White-prince GitHub stats](https://github-readme-stats.vercel.app/api?username=White-prince&hide_border=true&show_icons=true&bg_color=0D1117&text_color=fefefe&title_color=39d253&icon_color=39d253)&nbsp;
   
  ### :fire:&nbsp;GitHub Strick Stats
  
