@@ -1,6 +1,6 @@
  [![White-prince](https://github.com/White-prince/White-prince/blob/main/assets/White-prince_0.jpg?raw=true)](https://white-prince.github.io/Homepage/)
   
- ## :wave:&nbsp;Hey there! I'm White-prince :crown:
+ ## :wave:&nbsp;Hey there! I'm White-prince 
 
  ### :file_folder:&nbsp;About Me
  
