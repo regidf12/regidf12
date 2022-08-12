@@ -5,7 +5,7 @@
  ### :file_folder:&nbsp;About Me
  
 :man_student:&nbsp;I am a student programmer\
- :robot:&nbsp;I love programming bots, assistants. Everything for convenience
+ :robot:&nbsp;I love programming bots, assistants. Everything for convenience\
  :receipt:&nbsp;I write websites, landing pages for advertising\
  :brain::gear:&nbsp;I want to do artificial intelligence\
  :fountain_pen:&nbsp;My hobby is to learn something new\
