@@ -38,7 +38,7 @@
  <div align="center">
  
   [![Twitter](https://img.shields.io/badge/-Twitter-131313?style=for-the-badge&logo=Twitter)](https://twitter.com/White_prince_0)
-  [![Instagram](https://img.shields.io/badge/-Instagram-131313?style=for-the-badge&logo=Instagram)](https://www.instagram.com/0xe_white_prince_ex0/)
+  [![Instagram](https://img.shields.io/badge/-Instagram-131313?style=for-the-badge&logo=Instagram)](https://www.instagram.com/white_prince_x0/)
   [![Telegram](https://img.shields.io/badge/-Telegram-131313?style=for-the-badge&logo=Telegram)](https://t.me/Dark_Hub_info)
   [![Google](https://img.shields.io/badge/-Webpage-131313?style=for-the-badge&logo=Google-Chrome&logoColor=white)](https://white-prince.github.io/Homepage/)
   [![Facebook](https://img.shields.io/badge/-Facebook-131313?style=for-the-badge&logo=Facebook)](https://www.facebook.com/profile.php?id=100023988285502)
