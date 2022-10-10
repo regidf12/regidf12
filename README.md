@@ -1,4 +1,4 @@
- [![White-prince](https://github.com/White-prince/White-prince/blob/main/assets/White-prince_01.jpg?raw=true)](https://white-prince.github.io/Homepage/)
+ [![White-prince](https://github.com/White-prince/White-prince/blob/main/assets/White-prince_01.jpg?raw=true)](http://white-prince.ru/)
   
  ## :wave:&nbsp;Hey there! I'm White-prince :crown:
 
