@@ -17,7 +17,7 @@
   ![Django](https://img.shields.io/badge/-Django-2E8B57?style=for-the-badge&logo=Django)\
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-483D8B?style=for-the-badge&logo=Bootstrap)&nbsp;
   ![Aiogram](https://img.shields.io/badge/-aiogram-AFEEEE?style=for-the-badge&logo=Telegram)&nbsp;
-  ![MySql](https://img.shields.io/badge/-MySql-F0E68C?style=for-the-badge&logo=MySql)\
+  ![MySql](https://img.shields.io/badge/-SQLite3-808080?style=for-the-badge&logo=SQLite)\
   ![Markdown](https://img.shields.io/badge/-Markdown-C0C0C0?style=for-the-badge&logo=Markdown)&nbsp;
   ![Git](https://img.shields.io/badge/-Git-DC143C?style=for-the-badge&logo=Git)&nbsp;
   ![GitHub](https://img.shields.io/badge/-GitHub-131313?style=for-the-badge&logo=GitHub)\
