@@ -6,7 +6,8 @@
  :robot:&nbsp;I love programming bots, assistants. Everything for convenience\
  :receipt:&nbsp;I write websites, landing pages for advertising\
  :brain:I want to do artificial intelligence\
- :fountain_pen:&nbsp;My hobby is to learn something new\
+ :fountain_pen:&nbsp;My hobbies are reading books, playing sports, listening to music\
+ :ledger:&nbsp;My favorite writer is Robert Martin\
  :speech_balloon:&nbsp;You can use social networks to contact me
 
  ### :hammer_and_wrench:&nbsp;Languages and Tools
