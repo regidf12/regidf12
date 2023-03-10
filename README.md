@@ -26,11 +26,11 @@
 
  ### :chart_with_upwards_trend:&nbsp;GitHub Statistics
  
-  ![White-prince GitHub stats](https://github-readme-stats.vercel.app/api?username=lmmersion&hide_border=true&show_icons=true&bg_color=0D1117&text_color=fefefe&title_color=39d253&icon_color=39d253)&nbsp;
+  ![White-prince GitHub stats](https://github-readme-stats.vercel.app/api?username=Dive-dev&hide_border=true&show_icons=true&bg_color=0D1117&text_color=fefefe&title_color=39d253&icon_color=39d253)&nbsp;
   
  ### :fire:&nbsp;GitHub Strick Stats
  
-  ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=lmmersion&theme=github-dark&hide_border=true&date_format=%5BY.%5Dn.j)
+  ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Dive-dev&theme=github-dark&hide_border=true&date_format=%5BY.%5Dn.j)
   
 ### :link:&nbsp;Follow me
  <div align="center">
