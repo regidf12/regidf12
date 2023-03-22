@@ -38,9 +38,7 @@
 ### :link:&nbsp;Follow me
  <div align="center">
  
-  [![Twitter](https://img.shields.io/badge/-Twitter-131313?style=for-the-badge&logo=Twitter)](https://twitter.com/White_prince_0)
   [![Telegram](https://img.shields.io/badge/-Telegram-131313?style=for-the-badge&logo=Telegram)](https://t.me/Dark_Hub_info)
-  [![Google](https://img.shields.io/badge/-Webpage-131313?style=for-the-badge&logo=Google-Chrome&logoColor=white)](http://white-prince.ru/)
   [![Gmail](https://img.shields.io/badge/-Gmail-131313?style=for-the-badge&logo=Gmail&logoColor=white)](https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=tiltedfear@gmail.com)
  
  </div>
