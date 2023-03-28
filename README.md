@@ -1,6 +1,6 @@
  ## :wave:&nbsp;Hey there! I'm Dive-into-dev  :minidisc:
  
- [![Dive-into-dev](https://github.com/Dive-dev/Dive-dev/blob/main/assets/VKHeader2.png?raw=true)]()
+ [![Dive-into-dev](https://github.com/Dive-dev/Dive-dev/blob/main/assets/dive-into-dev.png?raw=true)]()
 
  ### :file_folder:&nbsp;About Me
  
