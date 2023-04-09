@@ -33,7 +33,7 @@
   
  ### :fire:&nbsp;GitHub Strick Stats
  
-  [![GitHub Streak](https://streak-stats.demolab.com?user=Dive-dev&theme=react&hide_border=true&border_radius=4.6)](https://git.io/streak-stats)
+  [![GitHub Streak](https://streak-stats.demolab.com?user=Dive-dev&theme=react&hide_border=true&border_radius=10)](https://git.io/streak-stats)
   
 ### :link:&nbsp;Follow me
  <div align="center">
