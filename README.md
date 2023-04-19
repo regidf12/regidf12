@@ -29,7 +29,7 @@
 
  ### :chart_with_upwards_trend:&nbsp;GitHub Statistics
  
-  ![White-prince GitHub stats](https://github-readme-stats.vercel.app/api?username=Dive-dev&hide_border=true&show_icons=true&theme=react)&nbsp;
+  ![White-prince GitHub stats](https://github-readme-stats.vercel.app/api?username=&hide_border=true&show_icons=true&theme=react)&nbsp;
   
  ### :fire:&nbsp;GitHub Strick Stats
  
