@@ -4,7 +4,7 @@
 
  ### :file_folder:&nbsp;About Me
  
-![About me]()
+![About me](https://github.com/Dive-dev/Dive-dev/blob/main/assets/about.png?raw=true)
 
  ### :hammer_and_wrench:&nbsp;Languages and Tools
  
