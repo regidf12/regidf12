@@ -48,8 +48,12 @@
 <summary><b>Statistics</b></summary>
 
 ![regidf GitHub stats](https://github-readme-stats.vercel.app/api?username=regidf12&hide_border=true&show_icons=true&theme=react)&nbsp;
+    
+    
 ![regidf GitHub Streak](https://streak-stats.demolab.com?user=regidf12&theme=react&hide_border=true&border_radius=10)&nbsp;
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=regidf12&theme=react)
+    
+    
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=regidf12&theme=react)&nbsp;
 
 </details>
 
