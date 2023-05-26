@@ -1,6 +1,6 @@
 # Hello, world!
 
-
+![About me](https://github.com/regidf12/regidf12/blob/main/assets/about.png?raw=true)
 
 <details>
 <summary><b>Hobbies</b></summary>
