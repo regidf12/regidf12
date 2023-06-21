@@ -51,9 +51,7 @@
     
     
 ![regidf GitHub Streak](https://streak-stats.demolab.com?user=regidf12&theme=react&hide_border=true&border_radius=10)&nbsp;
-    
-    
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=regidf12&theme=react)&nbsp;
+
 
 </details>
 
