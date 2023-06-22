@@ -41,7 +41,7 @@
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-FFFFFF?style=for-the-badge&logo=Ubuntu)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-2277a8?style=for-the-badge&logo=Docker)&nbsp;
 ![Pytest](https://img.shields.io/badge/-Pytest-db5e64?style=for-the-badge&logo=Pytest)&nbsp;
-![Go](https://img.shields.io/badge/-Go-8a3eed?style=for-the-badge&logo=Golang)&nbsp;
+![Go](https://img.shields.io/badge/-Go-ffffff?style=for-the-badge&logo=Go)&nbsp;
 </details>
 
 <details>
