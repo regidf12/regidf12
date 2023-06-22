@@ -1,14 +1,16 @@
 name: Waka Readme
 
 on:
+  schedule:
+    - cron: '0 0 * * *'
   workflow_dispatch:
 jobs:
-  use_api:
+  update-readme:
+    name: Update Readme with Metrics
     runs-on: ubuntu-latest
-    permissions:
-      issues: read
     steps:
       - env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: |
-          gh api repos/octocat/Spoon-Knife/issues
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          run: |
+      - uses: anmol098/waka-readme-stats@master
