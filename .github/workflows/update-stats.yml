@@ -11,4 +11,4 @@ jobs:
       - env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          gh api repos/regid12/regid12/issues
+          gh api repos/octocat/Spoon-Knife/issues
