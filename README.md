@@ -41,27 +41,28 @@
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-FFFFFF?style=for-the-badge&logo=Ubuntu)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-2277a8?style=for-the-badge&logo=Docker)&nbsp;
 ![Pytest](https://img.shields.io/badge/-Pytest-db5e64?style=for-the-badge&logo=Pytest)&nbsp;
-![Tor](https://img.shields.io/badge/-tor-8a3eed?style=for-the-badge&logo=torbrowser)&nbsp;
+![Go](https://img.shields.io/badge/-Go-8a3eed?style=for-the-badge&logo=Golang)&nbsp;
 </details>
 
 <details>
 <summary><b>Statistics</b></summary>
 
-![regidf GitHub stats](https://github-readme-stats.vercel.app/api?username=regidf12&hide_border=true&show_icons=true&theme=react)&nbsp;
-    
-    
-![regidf GitHub Streak](https://streak-stats.demolab.com?user=regidf12&theme=react&hide_border=true&border_radius=10)&nbsp;
+![regidf GitHub stats](https://github-readme-stats.vercel.app/api?username=regidf12&hide_border=true&show_icons=true&theme=react)
+&nbsp;
+
+![regidf GitHub Streak](https://streak-stats.demolab.com?user=regidf12&theme=react&hide_border=true&border_radius=10)
+&nbsp;
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
 </details>
 
- Working | In Process | Interesting 
-:-------:|:----------:|:-----------:
-<a href="https://github.com/regidf12/Chat_GPT_tm_bot"><img title="Chat_GPT_tm_bot" src="https://github-readme-stats.vercel.app/api/pin/?username=regidf12&repo=Chat_GPT_tm_bot&theme=react"></a>|<a href="https://github.com/regidf12/msa"><img title="msa" src="https://github-readme-stats.vercel.app/api/pin/?username=regidf12&repo=msa&theme=react"></a>|<a href="https://github.com/regidf12/White-prince-website"><img title="White-prince-website" src="https://github-readme-stats.vercel.app/api/pin/?username=regidf12&repo=White-prince-website&theme=react"></a>
-<a href="https://github.com/regidf12/Vedmenko_telegram_bot"><img title="Vedmenko_telegram_bot" src="https://github-readme-stats.vercel.app/api/pin/?username=regidf12&repo=Vedmenko_telegram_bot&theme=react"></a>|<a href="https://github.com/regidf12/Moder_bot"><img title="Moder_bot" src="https://github-readme-stats.vercel.app/api/pin/?username=regidf12&repo=Moder_bot&theme=react"></a>|<a href="https://github.com/regidf12/regidf12"><img title="White-prince-website" src="https://github-readme-stats.vercel.app/api/pin/?username=regidf12&repo=regidf12&theme=react"></a>
-<a href="https://github.com/regidf12/Vedmenko_vk_bot"><img title="Vedmenko_vk_bot" src="https://github-readme-stats.vercel.app/api/pin/?username=regidf12&repo=Vedmenko_vk_bot&theme=react"></a>|<a href="https://github.com/regidf12/Fearless_Vikingz"><img title="Fearless_Vikingz" src="https://github-readme-stats.vercel.app/api/pin/?username=regidf12&repo=Fearless_Vikingz&theme=react"></a>|<a href="https://github.com/regidf12/regidf12.github.io"><img title="Regidf12_site" src="https://github-readme-stats.vercel.app/api/pin/?username=regidf12&repo=regidf12.github.io&theme=react">
+                                                                                                      Working                                                                                                       | In Process | Interesting 
+:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:----------:|:-----------:
+          <a href="https://github.com/regidf12/Chat_GPT_tm_bot"><img title="Chat_GPT_tm_bot" src="https://github-readme-stats.vercel.app/api/pin/?username=regidf12&repo=Chat_GPT_tm_bot&theme=react"></a>          |<a href="https://github.com/regidf12/msa"><img title="msa" src="https://github-readme-stats.vercel.app/api/pin/?username=regidf12&repo=msa&theme=react"></a>|<a href="https://github.com/regidf12/White-prince-website"><img title="White-prince-website" src="https://github-readme-stats.vercel.app/api/pin/?username=regidf12&repo=White-prince-website&theme=react"></a>
+ <a href="https://github.com/regidf12/Vedmenko_telegram_bot"><img title="Vedmenko_telegram_bot" src="https://github-readme-stats.vercel.app/api/pin/?username=regidf12&repo=Vedmenko_telegram_bot&theme=react"></a> |<a href="https://github.com/regidf12/Moder_bot"><img title="Moder_bot" src="https://github-readme-stats.vercel.app/api/pin/?username=regidf12&repo=Moder_bot&theme=react"></a>|<a href="https://github.com/regidf12/regidf12"><img title="White-prince-website" src="https://github-readme-stats.vercel.app/api/pin/?username=regidf12&repo=regidf12&theme=react"></a>
+          <a href="https://github.com/regidf12/Vedmenko_vk_bot"><img title="Vedmenko_vk_bot" src="https://github-readme-stats.vercel.app/api/pin/?username=regidf12&repo=Vedmenko_vk_bot&theme=react"></a>          |<a href="https://github.com/regidf12/Fearless_Vikingz"><img title="Fearless_Vikingz" src="https://github-readme-stats.vercel.app/api/pin/?username=regidf12&repo=Fearless_Vikingz&theme=react"></a>|<a href="https://github.com/regidf12/regidf12.github.io"><img title="Regidf12_site" src="https://github-readme-stats.vercel.app/api/pin/?username=regidf12&repo=regidf12.github.io&theme=react">
 
 <h2 align="center">
 
