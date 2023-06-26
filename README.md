@@ -53,6 +53,11 @@
 ![regidf GitHub Streak](https://streak-stats.demolab.com?user=regidf12&theme=react&hide_border=true&border_radius=10)
 &nbsp;
 
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+
 </details>
 
  Working | In Process | Interesting 
