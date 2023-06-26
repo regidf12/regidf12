@@ -55,11 +55,6 @@
 
 </details>
 
-<!--START_SECTION:waka-->
-
-
-<!--END_SECTION:waka-->
-
  Working | In Process | Interesting 
 :-------:|:----------:|:-----------:
 <a href="https://github.com/regidf12/Chat_GPT_tm_bot"><img title="Chat_GPT_tm_bot" src="https://github-readme-stats.vercel.app/api/pin/?username=regidf12&repo=Chat_GPT_tm_bot&theme=react"></a>|<a href="https://github.com/regidf12/msa"><img title="msa" src="https://github-readme-stats.vercel.app/api/pin/?username=regidf12&repo=msa&theme=react"></a>|<a href="https://github.com/regidf12/White-prince-website"><img title="White-prince-website" src="https://github-readme-stats.vercel.app/api/pin/?username=regidf12&repo=White-prince-website&theme=react"></a>
