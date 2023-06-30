@@ -19,5 +19,4 @@ jobs:
           COMMIT_BY_ME: "True"
           SHOW_COMMIT: "False"
           SHOW_SHORT_INFO: "False"
-          SYMBOL_VERSION: 2
           LOCALE: "en"
