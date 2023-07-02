@@ -14,9 +14,9 @@
     - 🎧 Lil peep - star shopping
     - 🎤 Eminem - in your head
 - `🏋️‍♂️ Sport`
-    - 🏃 Run
-    - 🤸‍♂️ Athletics
-    - 🚴‍♀️ Cross fitness
+    - 🏃  Run
+    - 🤸‍♂️  Athletics
+    - 🚴‍♀️  Cross fitness
 
 </details>
 
