@@ -12,7 +12,6 @@
 - `🏋️‍♂️ Sport`
     - 🏃 Run
     - 🤸‍♂️ Athletics
-    - 🚴‍♀️ Cross fitness
 
 </details>
 
