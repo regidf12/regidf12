@@ -11,7 +11,6 @@
     - 🎤 Eminem - in your head
 - `🏋️‍♂️ Sport`
     - 🏃 Run
-    - 🤸‍♂️ Athletics
 
 </details>
 
