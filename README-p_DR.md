@@ -10,7 +10,6 @@
     - 🎧 Lil peep - star shopping
     - 🎤 Eminem - in your head
 - `🏋️‍♂️ Sport`
-    - 🏃 Run
 
 </details>
 
