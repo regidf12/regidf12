@@ -8,7 +8,6 @@
 - `🎵 music listening`
     - 🎛️ Twenty one pilots - stressed out
     - 🎧 Lil peep - star shopping
-    - 🎤 Eminem - in your head
 
 </details>
 
