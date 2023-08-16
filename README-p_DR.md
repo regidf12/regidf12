@@ -7,7 +7,6 @@
     - 📙 Clean Agile. Back to Basics.
 - `🎵 music listening`
     - 🎛️ Twenty one pilots - stressed out
-    - 🎧 Lil peep - star shopping
 
 </details>
 
