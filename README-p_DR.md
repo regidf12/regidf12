@@ -6,7 +6,6 @@
     - 📗 Clean Architecture: A Craftsman's Guide to Software Structure and Design.
     - 📙 Clean Agile. Back to Basics.
 - `🎵 music listening`
-    - 🎛️ Twenty one pilots - stressed out
 
 </details>
 
