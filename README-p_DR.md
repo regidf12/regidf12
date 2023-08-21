@@ -10,7 +10,6 @@
 <details>
 <summary><b>Tools</b></summary>
 
-![Python](https://img.shields.io/badge/-Python-ede65a?style=for-the-badge&logo=Python)&nbsp;
 ![Html](https://img.shields.io/badge/-HTML-FF7F50?style=for-the-badge&logo=HTML5)&nbsp;
 ![Css](https://img.shields.io/badge/-CSS-7B68EE?style=for-the-badge&logo=CSS3)&nbsp;
 ![Django](https://img.shields.io/badge/-Django-2E8B57?style=for-the-badge&logo=Django)\
