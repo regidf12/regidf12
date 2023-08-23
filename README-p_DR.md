@@ -10,7 +10,6 @@
 <details>
 <summary><b>Tools</b></summary>
 
-![Css](https://img.shields.io/badge/-CSS-7B68EE?style=for-the-badge&logo=CSS3)&nbsp;
 ![Django](https://img.shields.io/badge/-Django-2E8B57?style=for-the-badge&logo=Django)\
 ![React](https://img.shields.io/badge/-React-4d9bb3?style=for-the-badge&logo=React)&nbsp;
 ![Aiogram](https://img.shields.io/badge/-aiogram-ed80c0?style=for-the-badge&logo=Telegram)&nbsp;
