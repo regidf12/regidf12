@@ -10,7 +10,6 @@
 <details>
 <summary><b>Tools</b></summary>
 
-![React](https://img.shields.io/badge/-React-4d9bb3?style=for-the-badge&logo=React)&nbsp;
 ![Aiogram](https://img.shields.io/badge/-aiogram-ed80c0?style=for-the-badge&logo=Telegram)&nbsp;
 ![JS](https://img.shields.io/badge/-JS-e8a26d?style=for-the-badge&logo=javascript)&nbsp;
 ![MySql](https://img.shields.io/badge/-SQLite3-808080?style=for-the-badge&logo=SQLite)\
