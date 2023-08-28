@@ -10,7 +10,6 @@
 <details>
 <summary><b>Tools</b></summary>
 
-![MySql](https://img.shields.io/badge/-SQLite3-808080?style=for-the-badge&logo=SQLite)\
 ![Markdown](https://img.shields.io/badge/-Markdown-C0C0C0?style=for-the-badge&logo=Markdown)&nbsp;
 ![PHP](https://img.shields.io/badge/-PHP-572270?style=for-the-badge&logo=PHP)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-8bb56b?style=for-the-badge&logo=Git)&nbsp;
