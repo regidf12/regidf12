@@ -10,7 +10,6 @@
 <details>
 <summary><b>Tools</b></summary>
 
-![Markdown](https://img.shields.io/badge/-Markdown-C0C0C0?style=for-the-badge&logo=Markdown)&nbsp;
 ![PHP](https://img.shields.io/badge/-PHP-572270?style=for-the-badge&logo=PHP)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-8bb56b?style=for-the-badge&logo=Git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-131313?style=for-the-badge&logo=GitHub)\
