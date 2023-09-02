@@ -10,7 +10,6 @@
 <details>
 <summary><b>Tools</b></summary>
 
-![Git](https://img.shields.io/badge/-Git-8bb56b?style=for-the-badge&logo=Git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-131313?style=for-the-badge&logo=GitHub)\
 ![Pycharm](https://img.shields.io/badge/-Pycharm-3CB371?style=for-the-badge&logo=Pycharm)&nbsp;
 ![VScode](https://img.shields.io/badge/-VSCode-2A84FE?style=for-the-badge&logo=VisualStudioCode)&nbsp;
