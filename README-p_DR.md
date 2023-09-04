@@ -10,7 +10,6 @@
 <details>
 <summary><b>Tools</b></summary>
 
-![Pycharm](https://img.shields.io/badge/-Pycharm-3CB371?style=for-the-badge&logo=Pycharm)&nbsp;
 ![VScode](https://img.shields.io/badge/-VSCode-2A84FE?style=for-the-badge&logo=VisualStudioCode)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-AFEEEE?style=for-the-badge&logo=PostgreSQL)\
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-FFFFFF?style=for-the-badge&logo=Ubuntu)&nbsp;
