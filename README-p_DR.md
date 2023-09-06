@@ -10,7 +10,6 @@
 <details>
 <summary><b>Tools</b></summary>
 
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-AFEEEE?style=for-the-badge&logo=PostgreSQL)\
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-FFFFFF?style=for-the-badge&logo=Ubuntu)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-2277a8?style=for-the-badge&logo=Docker)&nbsp;
 ![Pytest](https://img.shields.io/badge/-Pytest-db5e64?style=for-the-badge&logo=Pytest)&nbsp;
