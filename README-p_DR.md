@@ -9,8 +9,7 @@
 
 <details>
 <summary><b>Tools</b></summary>
-
-![Pytest](https://img.shields.io/badge/-Pytest-db5e64?style=for-the-badge&logo=Pytest)&nbsp;
+    
 ![Go](https://img.shields.io/badge/-Go-ffffff?style=for-the-badge&logo=Go)&nbsp;
 </details>
 
