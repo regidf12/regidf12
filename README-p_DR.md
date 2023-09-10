@@ -10,7 +10,6 @@
 <details>
 <summary><b>Tools</b></summary>
     
-![Go](https://img.shields.io/badge/-Go-ffffff?style=for-the-badge&logo=Go)&nbsp;
 </details>
 
 <details>
