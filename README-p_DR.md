@@ -7,10 +7,6 @@
 
 </details>
 
-<details>
-<summary><b>Tools</b></summary>
-    
-</details>
 
 <details>
 <summary><b>Statistics</b></summary>
