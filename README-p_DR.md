@@ -3,7 +3,6 @@
 
 - `📚 Books`
     - 📕 Clean Code: A Handbook of Agile Software Craftsmanship.
-    - 📗 Clean Architecture: A Craftsman's Guide to Software Structure and Design.
 
 </details>
 
