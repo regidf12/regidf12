@@ -2,7 +2,6 @@
 <summary><b>Hobbies</b></summary>
 
 - `📚 Books`
-    - 📕 Clean Code: A Handbook of Agile Software Craftsmanship.
 
 </details>
 
