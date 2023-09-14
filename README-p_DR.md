@@ -1,7 +1,6 @@
 <details>
 <summary><b>Hobbies</b></summary>
 
-- `📚 Books`
 
 </details>
 
