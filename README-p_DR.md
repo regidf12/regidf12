@@ -6,7 +6,6 @@
 
 
 <details>
-<summary><b>Statistics</b></summary>
 
 ![regidf GitHub stats](https://github-readme-stats.vercel.app/api?username=regidf12&hide_border=true&show_icons=true&theme=react)
 &nbsp;
