@@ -1,6 +1,4 @@
 <details>
-<summary><b>Hobbies</b></summary>
-
 
 </details>
 
