@@ -5,10 +5,6 @@
 </details>
 
 
-```text
-```
-
-
 📊 **This Week I Spent My Time On** 
 
 ```text
