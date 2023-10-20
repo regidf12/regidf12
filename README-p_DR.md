@@ -8,7 +8,6 @@
 📊 **This Week I Spent My Time On** 
 
 ```text
-⌚︎ Time Zone: Europe/Moscow
 💬 Programming Languages: 
 Python                   9 hrs 7 mins        ███████████░░░░░░░░░░░░░░   45.0% 
 JavaScript               5 hrs 47 mins       ███████░░░░░░░░░░░░░░░░░░   28.55% 
