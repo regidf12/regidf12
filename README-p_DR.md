@@ -10,7 +10,6 @@
 ```text
 💬 Programming Languages:
 🔥 Editors: 
-💻 Operating System: 
 Windows                  20 hrs 17 mins      █████████████████████████   100.0%
 ```
 
