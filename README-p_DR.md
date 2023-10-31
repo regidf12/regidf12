@@ -10,7 +10,6 @@
 ```text
 💬 Programming Languages:
 🔥 Editors: 
-Windows                  20 hrs 17 mins      █████████████████████████   100.0%
 ```
 
 **I Mostly Code in Python** 
