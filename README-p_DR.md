@@ -7,11 +7,6 @@
 
 📊 **This Week I Spent My Time On** 
 
-```text
-💬 Programming Languages:
-🔥 Editors: 
-```
-
 **I Mostly Code in Python** 
 
 ```text
