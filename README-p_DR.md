@@ -4,15 +4,6 @@
 
 </details>
 
-
-📊 **This Week I Spent My Time On** 
-
-**I Mostly Code in Python** 
-
-```text
-
-CSS                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   11.11%
-```
 ---
  Working | In Process | Interesting 
 :-------:|:----------:|:-----------:
