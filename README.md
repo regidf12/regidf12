@@ -103,10 +103,11 @@ Sunday       83 commits     ████░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   1 hr 59 mins        █████████████████████░░░░   85.67% 
+Vue.js                   19 mins             ███░░░░░░░░░░░░░░░░░░░░░░   14.33%
 
 🔥 Editors: 
-No Activity Tracked This Week
+PyCharm                  2 hrs 19 mins       █████████████████████████   100.0%
 
 ```
 
@@ -122,7 +123,7 @@ JavaScript               1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 08/11/2023
+ Last Updated on 09/11/2023
 <!--END_SECTION:waka-->
 
  Working | In Process | Interesting 
