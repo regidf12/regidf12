@@ -66,7 +66,7 @@
 
 > 🏆 520 Contributions in the Year 2024
  > 
-> 📦 111.6 kB Used in Github's Storage 
+> 📦 111.4 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -127,7 +127,7 @@ CSS                      1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 11/06/2024
+ Last Updated on 12/06/2024
 <!--END_SECTION:waka-->
 
  Working | In Process | Interesting 
