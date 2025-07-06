@@ -33,7 +33,6 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-131313?style=for-the-badge&logo=GitHub)\
 ![Pycharm](https://img.shields.io/badge/-Pycharm-3CB371?style=for-the-badge&logo=Pycharm)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-AFEEEE?style=for-the-badge&logo=PostgreSQL)\
-![Ubuntu](https://img.shields.io/badge/-Ubuntu-FFFFFF?style=for-the-badge&logo=Ubuntu)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-2277a8?style=for-the-badge&logo=Docker)&nbsp;
 </details>
 
