@@ -45,8 +45,6 @@
 ![regidf GitHub Streak](https://streak-stats.demolab.com?user=regidf12&theme=react&hide_border=true&border_radius=10)
 &nbsp;
 
-[![regidf's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=regidf&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
-
 </details>
 
 <!--START_SECTION:waka-->
