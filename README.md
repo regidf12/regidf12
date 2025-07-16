@@ -121,6 +121,8 @@ JavaScript               1 repo              ██░░░░░░░░░�
  Last Updated on 16/07/2025
 <!--END_SECTION:waka-->
 
+![LeetCode Stats](https://leetcard.jacoblin.cool/regidf?theme=dark&font=Montserrat%20Alternates&ext=heatmap)
+
  Working | In Process | Interesting 
 :-------:|:----------:|:-----------:
 <a href="https://github.com/regidf12/Chat_GPT_tm_bot"><img title="Chat_GPT_tm_bot" src="https://github-readme-stats.vercel.app/api/pin/?username=regidf12&repo=Chat_GPT_tm_bot&theme=react"></a>|<a href="https://github.com/Dark-hub-org/YoungWork"><img title="YoungWork" src="https://github-readme-stats.vercel.app/api/pin/?username=Dark-hub-org&repo=YoungWork&theme=react"></a>|<a href="https://github.com/regidf12/White-prince-website"><img title="White-prince-website" src="https://github-readme-stats.vercel.app/api/pin/?username=regidf12&repo=White-prince-website&theme=react"></a>
