@@ -29,8 +29,7 @@
 ![Django](https://img.shields.io/badge/-Django-2E8B57?style=for-the-badge&logo=Django)\
 ![Aiogram](https://img.shields.io/badge/-aiogram-ed80c0?style=for-the-badge&logo=Telegram)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-C0C0C0?style=for-the-badge&logo=Markdown)&nbsp;
-![Git](https://img.shields.io/badge/-Git-8bb56b?style=for-the-badge&logo=Git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-131313?style=for-the-badge&logo=GitHub)\
+![Git](https://img.shields.io/badge/-Git-8bb56b?style=for-the-badge&logo=Git)&nbsp;\
 ![Pycharm](https://img.shields.io/badge/-Pycharm-3CB371?style=for-the-badge&logo=Pycharm)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-AFEEEE?style=for-the-badge&logo=PostgreSQL)
 ![Docker](https://img.shields.io/badge/-Docker-2277a8?style=for-the-badge&logo=Docker)&nbsp;
