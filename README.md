@@ -47,7 +47,7 @@
 </details>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-14-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-10-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-97747%20lines%20of%20code-blue)
 
@@ -92,12 +92,12 @@ Sunday       39 commits     █████░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-Other                    16 hrs 55 mins      ██████████████████████░░░   87.53% 
-Python                   2 hrs 24 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.47%
+Other                    15 hrs 54 mins      █████████████████████░░░░   86.82% 
+Python                   2 hrs 24 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.18%
 
 🔥 Editors: 
-Chrome                   18 hrs 32 mins      ████████████████████████░   95.88% 
-PyCharm                  47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.1% 
+Chrome                   17 hrs 31 mins      ████████████████████████░   95.63% 
+PyCharm                  47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.34% 
 VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.02%
 
 ```
@@ -114,7 +114,7 @@ JavaScript               1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 20/07/2025
+ Last Updated on 21/07/2025
 <!--END_SECTION:waka-->
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/regidf?theme=dark&font=Montserrat%20Alternates&ext=heatmap)
