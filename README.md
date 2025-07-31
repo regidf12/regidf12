@@ -47,7 +47,7 @@
 </details>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-10-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-97747%20lines%20of%20code-blue)
 
@@ -111,7 +111,7 @@ JavaScript               1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 30/07/2025
+ Last Updated on 31/07/2025
 <!--END_SECTION:waka-->
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/regidf?theme=dark&font=Montserrat%20Alternates&ext=heatmap)
