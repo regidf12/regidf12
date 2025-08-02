@@ -92,10 +92,14 @@ Sunday       39 commits     █████░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Docker                   3 hrs 3 mins        ███████████░░░░░░░░░░░░░░   46.26% 
+YAML                     58 mins             ███░░░░░░░░░░░░░░░░░░░░░░   14.72% 
+Python                   31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   7.98% 
+Shell Script             25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.31% 
+Bash                     23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.89%
 
 🔥 Editors: 
-No Activity Tracked This Week
+PyCharm                  6 hrs 37 mins       █████████████████████████   100.0%
 
 ```
 
@@ -111,7 +115,7 @@ JavaScript               1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 01/08/2025
+ Last Updated on 02/08/2025
 <!--END_SECTION:waka-->
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/regidf?theme=dark&font=Montserrat%20Alternates&ext=heatmap)
